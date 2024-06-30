@@ -1,0 +1,162 @@
+.sec1 {
+    background-color: #e0e0e057;
+    height: 50vh;
+    padding-left: 100px;
+    padding-top: 100px;
+    color: #263238;
+}
+.sec1 h1{
+    font-size: 40px;
+}
+#green {
+    color: #4caf4f;
+}
+
+#photo1 {
+    position: absolute;
+    top: 100px;
+    right: 100px;
+}
+
+#s1 {
+    color: white;
+    background-color: #4caf4f;
+    border: none;
+    border-radius: 2px;
+    width: 90px;
+    height: 35px;
+    margin-top: 10px;
+}
+#s1:hover{
+    cursor: pointer;
+    background-color: #0bd611;
+}
+.sec2 {
+    text-align: center;
+    color: #263238;
+}
+
+.logo img {
+    margin: 50px;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+
+}
+
+.box {
+    box-shadow: 2px 2px 10px 2px#f2f8ee;
+    gap: 40px;
+    width: 80px;
+    height: 80px;
+    padding: 90px;
+    margin: 50px;
+    border-radius: 10px;
+}
+
+article {
+    margin-top: -70px;
+    color: #263238;
+}
+
+#hp {
+    margin-left: -100px;
+    margin-right: -100px;
+}
+.sec3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.frame img{
+    width: 300px;
+    height: 300px;
+    margin-right:50px;
+}
+.hp2{
+    text-align:left;
+    color: #263238;
+    margin-top: -40px;
+}
+#capital{
+    font-size: 40px;
+}
+#s2{
+    color: white;
+    background-color: #4caf4f;
+    border: none;
+    border-radius: 2px;
+    width: 110px;
+    height: 35px;
+}
+#s2:hover{
+    cursor: pointer;
+    background-color: #0bd611;
+}
+.sec4{
+    display: flex;
+    background-color: #e0e0e057;
+    color: #263238;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 200px;
+}
+.vector{
+    display:flex;
+    margin-top: 50px;
+    margin-left: 100px; 
+}
+.vector img{
+    height: 40px;
+    width: 45px;
+    margin-top: 25px;
+    padding-right: 10px;
+}
+.vector h4{
+    margin-top: -15px;
+}
+#hp4{
+    margin-top: 50px;
+}
+#n1{
+    margin-left: 40px;
+}
+#n{
+    margin-left: 70px;
+}
+.sec5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.pana img{
+    width: 300px;
+    height: 300px;
+    margin-right:50px;
+}
+.hp3{
+    text-align:left;
+    color: #263238;
+    margin-top: -40px;
+}
+#capital{
+    font-size: 40px;
+}
+#s3{
+    color: white;
+    background-color: #4caf4f;
+    border: none;
+    border-radius: 2px;
+    width: 110px;
+    height: 35px;
+}
+#s3:hover{
+    cursor: pointer;
+    background-color: #0bd611;
+}
